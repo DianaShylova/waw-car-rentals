@@ -1,0 +1,27 @@
+.logOutBtn {   
+    padding: 10px 30px;
+    box-shadow: 5px 5px 10px black;
+    background-image: radial-gradient(white, rgb(102, 153, 51), rgb(0, 102, 0));
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.logOutBtn:hover,
+.logOutBtn:focus {
+    background-image: radial-gradient(white, rgb(204, 204, 51), rgb(102, 102, 0));
+    color: black;
+    transform: scale(1.2);
+    transition: all 250ms;
+}
+
+.userMenuContainer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.userName {
+    font-size: 20px;
+    font-weight: 600;
+}

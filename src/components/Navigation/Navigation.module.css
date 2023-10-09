@@ -1,0 +1,13 @@
+.link {
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(153 102, 0);
+    font-weight: 900;
+    
+}
+
+.navigationContainer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
