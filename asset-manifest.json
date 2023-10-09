@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/waw-car-rentals/static/css/main.d7b5cd5d.css",
+    "main.js": "/waw-car-rentals/static/js/main.3a0adc20.js",
+    "static/js/266.9cfff59f.chunk.js": "/waw-car-rentals/static/js/266.9cfff59f.chunk.js",
+    "static/css/395.80392b5b.chunk.css": "/waw-car-rentals/static/css/395.80392b5b.chunk.css",
+    "static/js/395.be06d13e.chunk.js": "/waw-car-rentals/static/js/395.be06d13e.chunk.js",
+    "static/css/186.34a809e6.chunk.css": "/waw-car-rentals/static/css/186.34a809e6.chunk.css",
+    "static/js/186.995fac75.chunk.js": "/waw-car-rentals/static/js/186.995fac75.chunk.js",
+    "static/css/73.b33a3b67.chunk.css": "/waw-car-rentals/static/css/73.b33a3b67.chunk.css",
+    "static/js/73.354bc1ca.chunk.js": "/waw-car-rentals/static/js/73.354bc1ca.chunk.js",
+    "static/media/fallout-bg.jpg": "/waw-car-rentals/static/media/fallout-bg.1ec63fdbbf2f4dbd52bd.jpg",
+    "index.html": "/waw-car-rentals/index.html",
+    "main.d7b5cd5d.css.map": "/waw-car-rentals/static/css/main.d7b5cd5d.css.map",
+    "main.3a0adc20.js.map": "/waw-car-rentals/static/js/main.3a0adc20.js.map",
+    "266.9cfff59f.chunk.js.map": "/waw-car-rentals/static/js/266.9cfff59f.chunk.js.map",
+    "395.80392b5b.chunk.css.map": "/waw-car-rentals/static/css/395.80392b5b.chunk.css.map",
+    "395.be06d13e.chunk.js.map": "/waw-car-rentals/static/js/395.be06d13e.chunk.js.map",
+    "186.34a809e6.chunk.css.map": "/waw-car-rentals/static/css/186.34a809e6.chunk.css.map",
+    "186.995fac75.chunk.js.map": "/waw-car-rentals/static/js/186.995fac75.chunk.js.map",
+    "73.b33a3b67.chunk.css.map": "/waw-car-rentals/static/css/73.b33a3b67.chunk.css.map",
+    "73.354bc1ca.chunk.js.map": "/waw-car-rentals/static/js/73.354bc1ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b5cd5d.css",
+    "static/js/main.3a0adc20.js"
+  ]
+}
